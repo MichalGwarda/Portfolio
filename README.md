@@ -1,15 +1,14 @@
 # *Portfolio*
-My Tester's Portfolio
 
-##### Sekcja 'O mnie'
+### Sekcja 'O mnie'
 
 Narzędzia, czyli zbiór technologii na których pracujesz
 
-##### Kursy
+### Kursy
 
-##### Techniczne książki
+### Techniczne książki
 
-##### Grupy testerskie
+### Grupy testerskie
 
 Blogi, strony tematyczne
 
