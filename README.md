@@ -1,6 +1,22 @@
 # *Portfolio*
 
-### Sekcja 'O mnie'
+### 'O mnie'
+Ukończyłem Politechnikę Warszawską - mgr inż. mechanik energetyk (nie mylić z elektrykiem) - oznacza to, że uczyłem się wielu dość trudnych i nie do końca potrzebnych zwykłemu śmiertelnikowi rzeczy. Mój wniosek ze studiów jest taki, że da się nauczyć/zrozumieć rzeczy, które początkowo wydają się niemożliwe do zrozumienia.
+Umysł analityczny – uważam, że potrafię analizować i wyciągać logiczne wnioski.
+
+Pracowałem w kilku różnych branżach także doświadczenia mam bardzo różne.
+Od dłuższego czasu przyglądam się branży IT, szukam pierwszej poważnej pracy lub stażu, gdzie mógłbym wykazać swoją przydatność i obrać odpowiedni kierunek rozwoju.
+Na chwilę obecną i na podstawie posiadanej wiedzy najbliżej mi w kierunku testowania oprogramowania.
+ 
+
+Uczyłem się #C podczas studiów - oczywiście nic nie pamiętam, ale kiedyś coś umiałem i sądzę, że da się do tego wrócić mniejszym nakładem sił
+
+pierwsza styczność z programowaniem? Chyba to był: logo komeniusz
+
+java Script
+phython
+sql
+html + css
 
 
 
