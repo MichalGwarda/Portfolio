@@ -28,7 +28,7 @@ html + css
 Warsztaty z Java Script - część 1 ---> [link do kompilatora](https://jsfiddle.net/q8y1akd9/)  
 Warsztaty z Java Script - część 2 ---> [link do kompilatora](https://jsfiddle.net/z38ny5g1/1/)
 
-Warsztaty w Pythona -----------------> [link do kodu](https://github.com/MichalGwarda/Portfolio/blob/main/Python%20-%20lesson%201)
+Warsztaty w Pythona ---> [link do kodu](https://github.com/MichalGwarda/Portfolio/blob/main/Python%20-%20lesson%201)
 
 
 ### Techniczne książki
