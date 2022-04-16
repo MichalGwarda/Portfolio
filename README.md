@@ -25,8 +25,8 @@ html + css
 
 
 ### Kursy
-Warsztaty z Java Script  - cz1 https://jsfiddle.net/q8y1akd9/  
-Warsztaty z Java Script  - cz2 https://jsfiddle.net/z38ny5g1/1/
+Warsztaty z Java Script - cz1 [link do kompilatora](https://jsfiddle.net/q8y1akd9/)  
+Warsztaty z Java Script - cz2 https://jsfiddle.net/z38ny5g1/1/
 
 Warsztaty w Pythona - https://github.com/MichalGwarda/Portfolio/blob/main/Python%20-%20lesson%201
 
