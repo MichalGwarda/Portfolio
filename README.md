@@ -2,18 +2,27 @@
 
 ### Sekcja 'O mnie'
 
-Narzędzia, czyli zbiór technologii na których pracujesz
+
+
+### Narzędzia, czyli zbiór technologii na których pracujesz
+
+
 
 ### Kursy
 
+
+
 ### Techniczne książki
+
+
 
 ### Grupy testerskie
 
-Blogi, strony tematyczne
 
-Webinary, Meetupy
+### Blogi, strony tematyczne
 
-Twoja autorska dokumentacja testowa
+### Webinary, Meetupy
 
-Twoje projekty
+### Twoja autorska dokumentacja testowa
+
+### Twoje projekty
