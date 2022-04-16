@@ -20,7 +20,7 @@ html + css
 
 
 
-### Narzędzia, czyli zbiór technologii na których pracujesz
+# Narzędzia, czyli zbiór technologii na których pracujesz
 
 
 
