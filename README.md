@@ -30,6 +30,8 @@ Warsztaty z Java Script - część 2 ---> [link do kompilatora](https://jsfiddle
 
 Warsztaty w Pythona ---> [link do kodu](https://github.com/MichalGwarda/Portfolio/blob/main/Python%20-%20lesson%201)
 
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+
 
 ### Techniczne książki
 
