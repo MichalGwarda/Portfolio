@@ -25,6 +25,8 @@ html + css
 
 
 ### Kursy
+Warsztaty z Java Script  - cz1 https://jsfiddle.net/q8y1akd9/
+Warsztaty z Java Script  - cz2 https://jsfiddle.net/z38ny5g1/1/
 
 
 
