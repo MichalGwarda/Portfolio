@@ -10,13 +10,13 @@ Na chwilę obecną i na podstawie posiadanej wiedzy najbliżej mi w kierunku tes
  
 Uczyłem się #C podczas studiów - oczywiście nic nie pamiętam, ale kiedyś coś umiałem i sądzę, że da się do tego wrócić mniejszym nakładem sił.
 
-pierwsza styczność z programowaniem? Chyba to był: logo komeniusz :)
+pierwsza styczność z programowaniem? Prawdopodobnie był to: logo komeniusz :)
 
 Staram się uczyć samodzielnie bazując na znalezionych w internecie materiałach.
 
 
 
-# Narzędzia, czyli zbiór technologii na których pracujesz
+# Narzędzia:
 sql  
 jira, trello  
 postman  
@@ -53,8 +53,16 @@ Grupa fb "ISTQB - egzaminy, pytania, testy" ---> [link](https://www.facebook.com
 
 ### Blogi, strony tematyczne
 
+Blog Piotra Wicherskiego ---> [link](https://pwicherski.gitbook.io/testowanie-oprogramowania/)  
+Guru99 ---> [link](https://www.guru99.com/software-testing.html?fbclid=IwAR3iQiAzvFTRzLMXXooBnFb2jXTFFOkavYK_daaHZSpvF6Sux9xx5t1zVHc)  
+Blog Remigiusza Bednarczyka ---> [link](https://remigiuszbednarczyk.pl/)  
+Platforma uTest ---> [link](https://www.utest.com/)  
+Platrforma Mr Buggy ---> [link](http://mrbuggy.pl/)
+
 ### Webinary, Meetupy
 
 ### Twoja autorska dokumentacja testowa
+W trakcie aktualzacji do GitHub
 
 ### Twoje projekty
+W trakcie aktualzacji do GitHub
