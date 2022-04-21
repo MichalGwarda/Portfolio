@@ -37,13 +37,6 @@ Kurs podstaw SQL ---> [link](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 Kurs podstaw HTML+CSS ---> [link](https://coderslab.pl/pl/podstawy-html-i-css-darmowe)
 
 
-Here's a paragraph that will be visible.
-
-[This is a comment that will be hidden.]: # 
-
-And here's another paragraph that's visible.
-
-
 
 [ ### Techniczne książki ]: #
 
@@ -56,14 +49,13 @@ Grupa fb "ISTQB - egzaminy, pytania, testy" ---> [link](https://www.facebook.com
 
 
 ### Blogi, strony tematyczne
-
 Blog Piotra Wicherskiego ---> [link](https://pwicherski.gitbook.io/testowanie-oprogramowania/)  
 Guru99 ---> [link](https://www.guru99.com/software-testing.html?fbclid=IwAR3iQiAzvFTRzLMXXooBnFb2jXTFFOkavYK_daaHZSpvF6Sux9xx5t1zVHc)  
 Blog Remigiusza Bednarczyka ---> [link](https://remigiuszbednarczyk.pl/)  
 Platforma uTest ---> [link](https://www.utest.com/)  
 Platrforma Mr Buggy ---> [link](http://mrbuggy.pl/)
 
-### Webinary, Meetupy
+[### Webinary, Meetupy]: #
 
 ### Twoja autorska dokumentacja testowa
 W trakcie aktualzacji do GitHub
