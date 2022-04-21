@@ -20,10 +20,10 @@ Staram się uczyć samodzielnie bazując na znalezionych w internecie materiała
 sql  
 jira, trello 
 postman  
-GitHub, Git
-PicPick, Sharex
-Testlink
-java Script
+GitHub, Git  
+PicPick, Sharex  
+Testlink  
+java Script  
 phython  
 html + css
 
@@ -46,9 +46,9 @@ Kurs podstaw HTML+CSS [link](https://coderslab.pl/pl/podstawy-html-i-css-darmowe
 
 
 ### Grupy testerskie
-Grupa fb "Testowanie oprogramowania" [link(https://www.facebook.com/groups/TestowanieOprogramowania/?multi_permalinks=5092212237467980)  
+Grupa fb "Testowanie oprogramowania" [link](https://www.facebook.com/groups/TestowanieOprogramowania/?multi_permalinks=5092212237467980)  
 Grupa fb "Czy IT jest dla mnie" [link](https://www.facebook.com/groups/czyitjestdlamnie/?multi_permalinks=1081724329047452)
-
+Grupa fb "ISTQB - egzaminy, pytania, testy" [link[(https://www.facebook.com/groups/194288250951242/)
 
 
 ### Blogi, strony tematyczne
