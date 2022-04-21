@@ -1,15 +1,14 @@
 # *Portfolio*
 
-### 'O mnie'
+### "O mnie"
 Ukończyłem Politechnikę Warszawską - mgr inż. mechanik energetyk (nie mylić z elektrykiem) - oznacza to, że uczyłem się wielu dość trudnych i nie do końca potrzebnych zwykłemu śmiertelnikowi rzeczy. Mój wniosek ze studiów jest taki, że da się nauczyć/zrozumieć rzeczy, które początkowo wydają się niemożliwe do zrozumienia.
 Umysł analityczny – uważam, że potrafię analizować i wyciągać logiczne wnioski.
 
 Pracowałem w kilku różnych branżach także doświadczenia mam bardzo różne.
 Od dłuższego czasu przyglądam się branży IT, szukam pierwszej poważnej pracy lub stażu, gdzie mógłbym wykazać swoją przydatność i obrać odpowiedni kierunek rozwoju.
-Na chwilę obecną i na podstawie posiadanej wiedzy najbliżej mi w kierunku testowania oprogramowania, aczkolwiek jestem otwarty także na rozwój w innych kierunkach.
+Na chwilę obecną na podstawie posiadanej wiedzy najbliżej mi w kierunku testowania oprogramowania, aczkolwiek jestem otwarty także na rozwój w innych kierunkach.
  
-Uczyłem się #C podczas studiów - oczywiście nic nie pamiętam, ale kiedyś coś umiałem i sądzę, że da się do tego wrócić mniejszym nakładem sił.
-
+Podczas studiów uczyłem się programować w języku #C i chociaż aktualnie za wiele nie pamiętam, to kojarzę na czym to polega :) Pomaga mi to także w nauce obecnie poznawanych języków: python i javascript
 Pierwsza styczność z programowaniem? Prawdopodobnie był to: logo komeniusz :)
 
 Staram się uczyć samodzielnie bazując na znalezionych w internecie materiałach.
@@ -57,8 +56,8 @@ Platrforma Mr Buggy ---> [link](http://mrbuggy.pl/)
 
 [### Webinary, Meetupy]: #
 
-### Twoja autorska dokumentacja testowa
-W trakcie aktualzacji do GitHub
+[### Twoja autorska dokumentacja testowa
+W trakcie aktualzacji do GitHub]:#
 
 ### Twoje projekty
 W trakcie aktualzacji do GitHub
