@@ -18,7 +18,7 @@ Staram się uczyć samodzielnie bazując na znalezionych w internecie materiała
 
 # Narzędzia, czyli zbiór technologii na których pracujesz
 sql  
-jira, trello 
+jira, trello  
 postman  
 GitHub, Git  
 PicPick, Sharex  
@@ -36,9 +36,9 @@ Warsztaty z Java Script - część 2 ---> [link do kompilatora](https://jsfiddle
 
 Warsztaty w Pythona ---> [link do kodu](https://github.com/MichalGwarda/Portfolio/blob/main/Python%20-%20lesson%201)
 
-Kurs podstaw SQL [link](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
+Kurs podstaw SQL ---> [link](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 
-Kurs podstaw HTML+CSS [link](https://coderslab.pl/pl/podstawy-html-i-css-darmowe)
+Kurs podstaw HTML+CSS ---> [link](https://coderslab.pl/pl/podstawy-html-i-css-darmowe)
 
 
 ### Techniczne książki
@@ -46,9 +46,9 @@ Kurs podstaw HTML+CSS [link](https://coderslab.pl/pl/podstawy-html-i-css-darmowe
 
 
 ### Grupy testerskie
-Grupa fb "Testowanie oprogramowania" [link](https://www.facebook.com/groups/TestowanieOprogramowania/?multi_permalinks=5092212237467980)  
-Grupa fb "Czy IT jest dla mnie" [link](https://www.facebook.com/groups/czyitjestdlamnie/?multi_permalinks=1081724329047452)
-Grupa fb "ISTQB - egzaminy, pytania, testy" [link[(https://www.facebook.com/groups/194288250951242/)
+Grupa fb "Testowanie oprogramowania" ---> [link](https://www.facebook.com/groups/TestowanieOprogramowania/?multi_permalinks=5092212237467980)  
+Grupa fb "Czy IT jest dla mnie" ---> [link](https://www.facebook.com/groups/czyitjestdlamnie/?multi_permalinks=1081724329047452)  
+Grupa fb "ISTQB - egzaminy, pytania, testy" ---> [link](https://www.facebook.com/groups/194288250951242/)
 
 
 ### Blogi, strony tematyczne
