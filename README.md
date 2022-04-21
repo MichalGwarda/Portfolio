@@ -37,6 +37,14 @@ Kurs podstaw SQL ---> [link](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 Kurs podstaw HTML+CSS ---> [link](https://coderslab.pl/pl/podstawy-html-i-css-darmowe)
 
 
+Here's a paragraph that will be visible.
+
+[This is a comment that will be hidden.]: # 
+
+And here's another paragraph that's visible.
+
+
+
 // ### Techniczne książki
 
 
