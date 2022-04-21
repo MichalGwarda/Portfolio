@@ -16,7 +16,7 @@ Staram się uczyć samodzielnie bazując na znalezionych w internecie materiała
 
 
 # Narzędzia:
-SQL 
+SQL  
 Jira, Trello  
 Postman  
 GitHub, Git  
