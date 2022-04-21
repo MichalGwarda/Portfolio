@@ -28,7 +28,7 @@ Html + Css
 
 
 ### Kursy
-Udemy: Praktyczny kurs testowania oprogramowania [link](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)  
+Udemy: Praktyczny kurs testowania oprogramowania ---> [link](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)  
 Warsztaty z Java Script - część 1 ---> [link do kompilatora](https://jsfiddle.net/q8y1akd9/)  
 Warsztaty z Java Script - część 2 ---> [link do kompilatora](https://jsfiddle.net/z38ny5g1/1/)  
 Warsztaty w Pythona ---> [link do kodu](https://github.com/MichalGwarda/Portfolio/blob/main/Python%20-%20lesson%201)  
