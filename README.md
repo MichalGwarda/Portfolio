@@ -10,7 +10,7 @@ Na chwilę obecną i na podstawie posiadanej wiedzy najbliżej mi w kierunku tes
  
 Uczyłem się #C podczas studiów - oczywiście nic nie pamiętam, ale kiedyś coś umiałem i sądzę, że da się do tego wrócić mniejszym nakładem sił.
 
-pierwsza styczność z programowaniem? Prawdopodobnie był to: logo komeniusz :)
+Pierwsza styczność z programowaniem? Prawdopodobnie był to: logo komeniusz :)
 
 Staram się uczyć samodzielnie bazując na znalezionych w internecie materiałach.
 
@@ -29,19 +29,15 @@ html + css
 
 
 ### Kursy
-Udemy: Praktyczny kurs testowania oprogramowania [link](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
-
+Udemy: Praktyczny kurs testowania oprogramowania [link](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)  
 Warsztaty z Java Script - część 1 ---> [link do kompilatora](https://jsfiddle.net/q8y1akd9/)  
-Warsztaty z Java Script - część 2 ---> [link do kompilatora](https://jsfiddle.net/z38ny5g1/1/)
-
-Warsztaty w Pythona ---> [link do kodu](https://github.com/MichalGwarda/Portfolio/blob/main/Python%20-%20lesson%201)
-
-Kurs podstaw SQL ---> [link](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
-
+Warsztaty z Java Script - część 2 ---> [link do kompilatora](https://jsfiddle.net/z38ny5g1/1/)  
+Warsztaty w Pythona ---> [link do kodu](https://github.com/MichalGwarda/Portfolio/blob/main/Python%20-%20lesson%201)  
+Kurs podstaw SQL ---> [link](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)  
 Kurs podstaw HTML+CSS ---> [link](https://coderslab.pl/pl/podstawy-html-i-css-darmowe)
 
 
-### Techniczne książki
+// ### Techniczne książki
 
 
 
