@@ -23,7 +23,7 @@ GitHub, Git
 PicPick, Sharex  
 Testlink  
 Java Script  
-Phython  
+Python  
 Html + Css
 
 
@@ -60,4 +60,4 @@ Platrforma Mr Buggy ---> [link](http://mrbuggy.pl/)
 W trakcie aktualzacji do GitHub]:#
 
 ### Twoje projekty
-W trakcie aktualzacji do GitHub
+W trakcie aktualizacji do GitHub
