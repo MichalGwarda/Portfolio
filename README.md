@@ -8,7 +8,7 @@ Pracowałem w kilku różnych branżach także doświadczenia mam bardzo różne
 Od dłuższego czasu przyglądam się branży IT, szukam pierwszej poważnej pracy lub stażu, gdzie mógłbym wykazać swoją przydatność i obrać odpowiedni kierunek rozwoju.
 Na chwilę obecną na podstawie posiadanej wiedzy najbliżej mi w kierunku testowania oprogramowania, aczkolwiek jestem otwarty także na rozwój w innych kierunkach.
  
-Podczas studiów uczyłem się programować w języku #C i chociaż aktualnie za wiele nie pamiętam, to kojarzę na czym to polega :) Pomaga mi to także w nauce obecnie poznawanych języków: python i javascript
+Podczas studiów uczyłem się programować w języku #C i chociaż aktualnie za wiele nie pamiętam, to kojarzę na czym to polega :) Pomaga mi to także w nauce obecnie poznawanych języków: python i javascript  
 Pierwsza styczność z programowaniem? Prawdopodobnie był to: logo komeniusz :)
 
 Staram się uczyć samodzielnie bazując na znalezionych w internecie materiałach.
