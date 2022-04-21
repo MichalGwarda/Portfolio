@@ -16,15 +16,15 @@ Staram się uczyć samodzielnie bazując na znalezionych w internecie materiała
 
 
 # Narzędzia:
-sql  
-jira, trello  
-postman  
+SQL 
+Jira, Trello  
+Postman  
 GitHub, Git  
 PicPick, Sharex  
 Testlink  
-java Script  
-phython  
-html + css
+Java Script  
+Phython  
+Html + Css
 
 
 ### Kursy
